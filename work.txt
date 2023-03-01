@@ -1,0 +1,17 @@
+)What is git?
+-Git mənbə kodunun idarə edilməsi üçün istifadə olunan DevOps alətidir. Bu, kiçik və çox böyük layihələri səmərəli idarə etmək üçün istifadə edilən pulsuz və açıq mənbəli versiya idarəetmə sistemidir. Git, mənbə kodundakı dəyişiklikləri izləmək üçün istifadə olunur ki, bu da bir çox tərtibatçıya qeyri-xətti inkişaf üzərində birlikdə işləməyə imkan verir.
+
+2)What is Github?
+-GitHub, bulud əsaslı Git depo hosting xidməti təklif edən kommersiya şirkətidir. Əslində, bu, fərdlərin və komandaların versiyaya nəzarət və əməkdaşlıq üçün Git-dən istifadə etməsini çox asanlaşdırır.
+
+3)What is Gitbash?
+-Git Bash, Microsoft Windows OS mühitləri üçün Unix əsaslı qabıq yardımçı proqramları və Git komanda xətti əmrləri üçün təcrübə təmin edən proqramdır.
+
+4)What do you understand by the term ‘Version Control System’?
+-Versiyaya nəzarət sistemləri proqram qruplarına zamanla mənbə kodunda dəyişiklikləri idarə etməyə kömək edən proqram alətləridir.
+
+5)What benefits come with using GIT?
+-Git-in ən böyük üstünlüklərindən biri onun budaqlanma imkanlarıdır. Mərkəzləşdirilmiş versiya idarəetmə sistemlərindən fərqli olaraq, Git budaqlari ucuzdur və birləşməsi asandır. Bu, bir çox Git istifadəçisi ilə məşhur olan xüsusiyyət bölməsinin iş axını asanlaşdırır. Xüsusiyyət budaqlari kod bazanıza hər dəyişiklik üçün təcrid olunmuş mühit təmin edir.
+
+6)What is a Git repository?
+-Git repozitoriyası layihə daxilindəki .git/ qovluğudur. Bu depo layihənizdəki fayllara edilən bütün dəyişiklikləri izləyir və zamanla tarix yaradır. Yəni .git/ qovluğunu silsəniz, layihənizin tarixçəsini silmiş olursunuz.
